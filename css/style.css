@@ -38,10 +38,18 @@ html {
 }
 
 .color {
-  height: 36px;
-  width: 36px;
-  margin-left: 0.5em;
+  height: 96px;
+  width: 96px;
+  margin-left: 2.5em;
   border-radius: 18px;
   box-shadow: 0px 4px 10px rgba(0,0,0,0.3);
   cursor: pointer;
+}
+
+@media screen and (min-width:768px) {
+   .color {
+      height: 72px;
+      width: 72px;
+      margin-left: .5em;
+    }
 }
