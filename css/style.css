@@ -27,7 +27,7 @@ html {
 }
 
 #product-shape {
-  fill: #DBED64;
+  /*fill: #DBED64;*/
 }
 
 .colors {
@@ -43,6 +43,5 @@ html {
   margin-left: 0.5em;
   border-radius: 18px;
   box-shadow: 0px 4px 10px rgba(0,0,0,0.3);
-  border: 2px solid #aaa;
   cursor: pointer;
 }
