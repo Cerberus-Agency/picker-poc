@@ -20,7 +20,7 @@ html {
 	width: 1024px;
 }
 
-#product-svg, #test {
+#product-svg {
   position: absolute;
   z-index: 2;
   mix-blend-mode: multiply;
